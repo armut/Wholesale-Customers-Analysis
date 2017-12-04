@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Data Preprocessing}{3}{section.2}
+\contentsline {section}{\numberline {3}Dimensionality Reduction}{5}{section.3}
+\contentsline {section}{\numberline {4}Clustering}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}K-Means}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Hierarchical Clustering}{9}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}DBSCAN}{13}{subsection.4.3}
+\contentsline {section}{\numberline {5}Conclusion}{16}{section.5}
