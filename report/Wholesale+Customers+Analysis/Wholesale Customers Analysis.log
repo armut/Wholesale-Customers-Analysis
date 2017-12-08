@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.26)  4 DEC 2017 15:33
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.26)  4 DEC 2017 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -674,10 +674,20 @@ LaTeX Info: Redefining \nameref on input line 275.
 \@outlinefile=\write4
 \openout4 = `"Wholesale Customers Analysis.out"'.
 
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 278.
 
-(./Wholesale Customers Analysis.toc
+(./cover.tex
+Missing character: There is no ı in font pplr8t!
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+[1
+
+])
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 283.
+ (./Wholesale Customers Analysis.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 5.
@@ -721,98 +731,92 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 \tf@toc=\write5
 \openout5 = `"Wholesale Customers Analysis.toc"'.
 
+ [1]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 302.
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
-)
-[1
-
-]
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 296.
-
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 317.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 323.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 318.
-LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 328
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 324.
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 334
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [2]
+) [1]
 File: output_13_0.png Graphic file (type QTm)
 
-<use  "output_13_0.png" > [3]
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+<use  "output_13_0.png" > [2]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
 
  []
 
-[4] [5]
+[3] [4]
 File: output_24_0.png Graphic file (type QTm)
  <use  "output_24_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 523--524
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 
  []
 
 File: output_27_0.png Graphic file (type QTm)
-<use  "output_27_0.png" > [6]
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
+<use  "output_27_0.png" > [5]
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
 
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 571.
-[7]
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 577.
+[6]
 File: output_35_0.png Graphic file (type QTm)
  <use  "output_35_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 604--605
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+
+ []
+
+[7]
+File: output_37_0.png Graphic file (type QTm)
+ <use  "output_37_0.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
 
  []
 
 [8]
-File: output_37_0.png Graphic file (type QTm)
- <use  "output_37_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 620--621
+File: output_42_0.png Graphic file (type QTm)
+ <use  "output_42_0.png" > [9]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
 
  []
 
-[9]
-File: output_42_0.png Graphic file (type QTm)
- <use  "output_42_0.png" > [10]
-Underfull \hbox (badness 10000) in paragraph at lines 682--683
+[10]
+File: output_44_0.png Graphic file (type QTm)
+ <use  "output_44_0.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
 
  []
 
 [11]
-File: output_44_0.png Graphic file (type QTm)
- <use  "output_44_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 707--708
+File: output_49_0.png Graphic file (type QTm)
+ <use  "output_49_0.png" > [12]
+Underfull \hbox (badness 10000) in paragraph at lines 775--776
 
  []
 
-[12]
-File: output_49_0.png Graphic file (type QTm)
- <use  "output_49_0.png" > [13]
-Underfull \hbox (badness 10000) in paragraph at lines 769--770
+[13]
+File: output_51_0.png Graphic file (type QTm)
+ <use  "output_51_0.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
  []
 
 [14]
-File: output_51_0.png Graphic file (type QTm)
- <use  "output_51_0.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 800--801
-
- []
-
-[15]
 File: img/kmeans_fav.png Graphic file (type QTm)
  <use  "img/kmeans_fav.png" >
 File: img/hierarchical_fav.png Graphic file (type QTm)
@@ -826,22 +830,22 @@ File: img/hierarchical_fav2.png Graphic file (type QTm)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: img/dbscan_fav.png Graphic file (type QTm)
-<use  "img/dbscan_fav.png" > [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 873.
- [17] [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 873.
+<use  "img/dbscan_fav.png" > [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 879.
+ [16] [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 879.
  (./Wholesale Customers Analysis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 873.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 873.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 873.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 879.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 879.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 879.
  ) 
 Here is how much of TeX's memory you used:
- 13696 strings out of 493638
- 199026 string characters out of 6146796
+ 13701 strings out of 493638
+ 199070 string characters out of 6146796
  280802 words of memory out of 5000000
- 16882 multiletter control sequences out of 15000+600000
+ 16884 multiletter control sequences out of 15000+600000
  18307 words of font info for 48 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  36i,6n,77p,454b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Wholesale Customers Analysis.pdf (18 pages).
+Output written on Wholesale Customers Analysis.pdf (19 pages).
